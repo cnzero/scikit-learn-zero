@@ -3,4 +3,4 @@
 *.un~
 
 # Jupyter Notebook checkpoints file
-.ipynb_checkpoints/*
+.ipynb_checkpoints*
