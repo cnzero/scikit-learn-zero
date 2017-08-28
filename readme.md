@@ -28,6 +28,17 @@ __告诉自己：__
     2. `learn-sklearnLogisticRegression.ipynb` ，在完成算法或模型的理论部分后，先利用sklearn的API进行数据的初步分析与API参数理解，是一个快速加深理论理解，并在部分调参过程中深入理解的过程。
     3. `selfLogisticRegression.py` 有关 Logistic Regression 相关的类或函数都将在该文件中进行代码实现，并在1中的Jupyter Notebook文件中进行检验。
 
+#### 关于 `selfLogisticRegressionDoc.ipynb` 中的理论部分
+1. 一定要自己动手推导公式与必要理论部分，这是最核心最基础的部分；
+2. 将理论部分在白纸上认真整理；
+3. 将白纸上的理论推导 __用打印机扫描的形式保存成电子档__；
+    1. 一定要认真整理，条理清晰，甚至多写多思考几遍，也可当作公式的理解与记忆；
+    1. 避免使用公式编辑器等工具浪费大量的不必要时间；
+    2. 自己手写过程与内容，写作过程更流畅自由，更强化大脑深入理解；
+    3. 自己的手写，回顾起来更亲切，同时能够联想出更丰富的东西；
+    4. 将图片等格式形式引入到Markdown中更直接；
+    5. 如有必要，再将电子版打印下来标记，也是非常好的过程
+
 ### 陆续进行以下算法的代码实现。。。
 1. Logistic Regression
 2. Linear Discrimination Analysis
